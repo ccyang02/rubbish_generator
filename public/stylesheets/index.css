@@ -1,0 +1,24 @@
+text{
+  font-family: "Arial", "Microsoft YaHei", "黑體", "宋體", sans-serif;
+}
+
+.responsive-square {
+  /* border: 1px solid black; */
+}
+
+.responsive-square img {
+  width: 100%;
+  max-width: 100%;
+  /* padding-bottom: 33.33%; */
+  height: 85%;
+  object-fit:cover;
+}
+
+.checker {
+ /* border: 1px solid black;  */
+ height: 15%;
+}
+
+.form-group {
+  width: 100%;
+}
